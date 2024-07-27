@@ -1,4 +1,4 @@
-<h1>Jogo de Xadrez 1.0</h1>
+<h1>Jogo de Xadrez 2.0</h1>
 <h3>Jogo com Robô</h3>
 
 <h4>Mais Informações:</h4>
